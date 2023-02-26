@@ -1,0 +1,148 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: visible;
+}
+
+.dis {
+    idth: auto;
+    weight: auto;
+}
+
+.atas {
+    background-color: #9F8772;
+    font-style: italic;
+    margin-bottom: 3%;
+}
+
+.wle::after {
+    margin-top: 2%;
+    padding-inline: 1%;
+}
+
+.zetzet {
+    width: 100%;
+    weight: auto;
+    margin-top: 2px;
+}
+
+.twitter {
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-bottom: 2%;
+}
+
+.btn {
+    color: #665A48;
+    font-weight: bold;
+    padding-inline: 0;
+}
+
+
+.tt {
+    color: #665A48;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.anugit {
+    float: right;
+    margin-top: 1%;
+    width: 50%;
+    weight: auto;
+    padding-inline: 2%;
+
+}
+
+.discrot {
+    margin-top: 2%;
+    width: auto;
+    margin: auto;
+    padding-bottom: 0.8rem;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+    background-color: #EDF1D6;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+h3 {
+    margin-top: 2%;
+    padding-inline: 1%;
+    margin-bottom: 2%;
+}
+
+h1 {
+    margin: 1;
+    padding-top: 2;
+}
+
+body {
+    background-color: #665A48;
+    color:aliceblue;
+}
+
+.ularbang {
+    width: 100%;
+    weight: auto;
+}
+
+p {
+    color:white;
+}
+
+.trakter {
+    padding-inline: 1%;
+    margin-top: 2%;
+    padding-top: 2%;
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    background-color: #666666;
+}
+
+a {
+    margin-left: 1%;
+    
+}
+
+.bawah {
+    background-color: #27231c6e;
+}
+
+.connect {
+    width: 25%;
+    margin: 1%;
+    padding-bottom: 0.8rem;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+    background-color: #EDE4E0;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.qqq {
+    color: #665A48;
+}
+
+.mlm {
+    width: auto;
+    margin: 1%;
+    padding-bottom: 0.8rem;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+    background-color: #C8DBBE;
+    border-radius: 25px;
+    padding: 20px;
+}
