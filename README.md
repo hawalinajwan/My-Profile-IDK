@@ -1,5 +1,5 @@
 # IDK
 
 This is IDK 🤓
-<img src="screenshots.jpeg">
+<img src="anunya.jpeg">
 okoklh
