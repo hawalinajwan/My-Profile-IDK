@@ -126,7 +126,7 @@ a {
 }
 
 .connect {
-    width: 42%;
+    width: auto;
     margin: 1%;
     padding-bottom: 0.8rem;
     padding-left: 1.2rem;
@@ -153,8 +153,27 @@ a {
 
 .hawalinajwan {
     font-size: 5ex;
+    margin-left: 0%;
+    
 }
 
 .bangbang {
   padding-inline: 5px;
+}
+
+.apah {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    display: block;
+    object-fit: contain;
+    object-position: initial;
+    filter: none;
+    float: left;
+    margin-bottom: 1%;
+    margin-left: 1%;
+}
+
+.sendiriwlee {
+    margin-left: 1%;
 }
