@@ -154,5 +154,6 @@ a {
     font-size: 5ex;
 }
 
-
-
+.bangbang {
+  padding-inline: 5px;
+}
